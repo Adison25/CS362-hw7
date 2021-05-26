@@ -5,7 +5,5 @@ def printFB(num):
         return 'Buzz'
     elif num%3 == 0:
         return 'Fizz'
-#i need to print it all out now
-#def print100FB():
-#    for x in 100:
-#        if x%5 
+    else:
+        return num
