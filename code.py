@@ -1,2 +1,3 @@
-def printFB():
-    return 'Fizz'
+def printFB(num):
+    if num%3 == 0:
+        return 'Fizz'
