@@ -1,0 +1,2 @@
+def printFB():
+    return 'Fizz'
