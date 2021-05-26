@@ -1,3 +1,3 @@
-def run(year):
+def year(year):
     if year % 4 != 0:
-        return "no"
+        return "No"
